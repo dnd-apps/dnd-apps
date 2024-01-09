@@ -15,6 +15,7 @@ Joining dnd-apps.dev is easy! Simply visit our [website](#) to sign up. Whether 
 ## Contribution Guidelines
 
 We encourage contributions from everyone. Here's how you can get involved:
+
 - **Map Design**: Share your original map designs or collaborate on community projects.
 - **Writing**: Contribute to our collaborative writing projects or submit your own stories and campaign ideas.
 - **D&D Content**: Share your homebrew rules, character ideas, and other D&D-related content.
