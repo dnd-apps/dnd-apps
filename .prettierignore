@@ -1,0 +1,5 @@
+.yarn
+.idea
+.vercel
+.wrangler
+node_modules
