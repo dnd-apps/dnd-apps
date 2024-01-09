@@ -20,7 +20,7 @@ export default function Home() {
     },
     {
       href: "https://vtt-maps.dnd-apps.dev/",
-      src: "https://vtt-maps.dnd-apps.dev/assets/vtt-maps-logo.png",
+      src: "/vtt-maps-logo.png",
       alt: "Foundry",
       description:
         "All of our free custom D&D maps! All with Universal DD2VTT exports & Hi-Res image exports!",
