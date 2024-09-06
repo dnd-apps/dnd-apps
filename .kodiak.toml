@@ -1,0 +1,4 @@
+[merge.automerge_dependencies]
+versions = ["minor", "patch"]
+# automerge by upgrade version for pull requests authored by dependabot or renovate.
+usernames = ["dependabot", "renovate"]
