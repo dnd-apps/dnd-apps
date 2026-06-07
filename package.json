@@ -12,8 +12,8 @@
   "dependencies": {
     "lodash-es": "^4.17.21",
     "next": "14.2.8",
-    "react": "^18",
-    "react-dom": "^18"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
